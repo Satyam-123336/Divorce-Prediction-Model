@@ -1,1 +1,0 @@
-# Divorce-Prediction-Model
